@@ -1,3 +1,3 @@
 # useAsyncState
 
-1234556222
+<preview path="./demo.vue"></preview>

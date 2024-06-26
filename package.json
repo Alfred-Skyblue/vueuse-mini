@@ -18,6 +18,9 @@
     "update": "node scripts/update-sidebar.js"
   },
   "dependencies": {
+    "@vitepress-demo-preview/component": "^2.3.2",
+    "@vitepress-demo-preview/plugin": "^1.2.3",
+    "element-plus": "^2.7.6",
     "vue": "^3.4.21"
   },
   "devDependencies": {
@@ -39,6 +42,9 @@
     "npm-run-all2": "^6.1.2",
     "prettier": "^3.2.5",
     "typescript": "~5.4.0",
+    "unocss": "^0.61.0",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-vue-components": "^0.27.1",
     "vite": "^5.2.8",
     "vitepress": "^1.2.3",
     "vitest": "^1.4.0",
